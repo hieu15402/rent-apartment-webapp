@@ -1,7 +1,7 @@
 package com.example.rentapartmentwebapp.dto;
 
-import com.example.vinhomeproject.models.ApartmentClass;
-import com.example.vinhomeproject.models.Building;
+import com.example.rentapartmentwebapp.models.ApartmentClass;
+import com.example.rentapartmentwebapp.models.Building;
 import lombok.Getter;
 import lombok.Setter;
 
