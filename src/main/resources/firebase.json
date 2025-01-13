@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "whalehome-project",
+  "private_key_id": "5c6d38878a8825fa33757c9fac41db1b5ccc4bbf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCIgsHByybtVN+u\nRq0q6LAZPv5Fg4siEwCoTQrvHdJj5l7RisaK+kL5GkryMMIana2AIXEnQJmFa5Hd\nrjrzUOSIv3BQ6O+Z6F8StzU2vBJxmpWLKAIEeyYNEaHcmcn/fDerSklcBD6QMnTK\nH9dlG5efxI/QxPwbJ+9WF18dxd9OEUko/cUL9nw+yYAru5Vrk/2oti3qjauypB8L\ncHz6iVfXUxS53o3H04PEYWY7SUveIs/uOFE/RZz/nyFPKMPpbapCb9N6zjm+ggv6\ni4QL5/4QbMT+Ca0toBbT8YBE7qPStXnt5ZnbwfjWJEFjcgcUuf6JvpaF2J4eQlh6\nO5Sxr65vAgMBAAECggEAQ2I3/k8ncfN5Tm94vzuI4Y1kui+KmFFE+8673Pidh86J\nc2nLQ4LxWEEQSaijx7uZjyvyzOtoXKGSqRh95OlDRfUpnea9jv1TIMvqqo//krA5\nrS0cgdXAHKddfKU1PrW0TQsoVxGJSGh/md5J1pDeMXE3hFgYEdeOnrJ+sxWfesr5\nAPOBPAzK6KJXyY6mvbPKpjK6AGTHsWl1+p9xhPnyxntiO2ov31AT8x/PButC19ZR\nDpqKMeGzx8wv/3s+adcV87Ezne6g0ZD/GGlcFFjOsNSer/FfSBRZ11ONz+koFUV+\noHzBXrGlPXn+N+G1SRWlz9dEvlWjZ0fD2C8rlotvEQKBgQC8C51tkn6FICVXKQUX\nVXn1Xkg4UvoDJzk1eBrLPDBRxCBjDhflTsg01mCLf/V/gFusCPMtHAkyMf/n+1w/\nJhivgkzBXlpW77zqyAOIRZYecqhDj9lEWpPU5h6OTlCG/5TM38zy1ov/89UrARuN\nulb1fHqoYejgaRRTI01kkIt9DQKBgQC515dvAznGG7wqj/rxBLg0HZCyoq5bj6Jf\n6ZyZALbQ3I/0zWejmiN7WKWYaUtVMms583REb97iB/nZsCOVSyWAHhujOA2HCrU7\n9yEWxxacAbQ9Rn6p7Lzi5BxvrjvLxZVKEuWQeK0BvPq3eKNyYgopBrRYEqqUYF66\nJXqrWBWSawKBgQCydvuD4EJ/KdEGdYHFcXP7sO0tt2Jb17/txPz44TiigVaTa+61\nzB0qOEMMYfameTWHgj74EuGPZ/CNQ/t6WzeWaj1aT6fBVmmfERB5JkGgyAR1inIS\n8zvWFEfvmtfGJ44bGlOyLHhWBB3NYJG74pthBDCM2c9gG5oUhS6QQLaBiQKBgHt6\nG0vPQNu4IdXFxF3PXPSDkFigbmi3jpNbjIi8SLuNULi+oVW6XEjgJWaWz07UKRpf\n/6hZDCXyVrekqH/RZiEx3/saiyJmovQsxvdzYDpXh4IPDKmqefXmyl4JzgEeTorg\n81aCV7EH9y1gInklWsrXgYvjGyNqxIW50T93Tx3xAoGAB6fqU/dVjueQFjQc4fwK\n29/2xJjdXXjypHPZdxfGjJ130QcC12mz5VyRNsXtkQ1IRyBJVcS4zZdGaW6Ik3ln\nkDVwqMjjXudYusciyXUdpAQ3rNtqJmmkiASggsGrEiSVteqyROQiKM6C2XGF88Ep\n/wuTlnFqrKgrvkUc+KjB6Mc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-599z6@whalehome-project.iam.gserviceaccount.com",
+  "client_id": "100101001990977715063",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-599z6%40whalehome-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
